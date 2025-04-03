@@ -18,7 +18,7 @@ A Next.js application that provides stock market analysis with interactive visua
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/stock-research-assistant.git
+git clone https://github.com/vanshsingh2002/stock-research.git
 cd stock-research-assistant
 npm install
 npm run dev
